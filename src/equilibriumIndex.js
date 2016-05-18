@@ -4,7 +4,7 @@
 
 'use strict';
 
-function computeIndex(arr) {
+module.exports = function computeIndex(arr) {
   let sum = 0;
   // Track total sum
   let totalSum = arr.reduce((prev, curr) => {
