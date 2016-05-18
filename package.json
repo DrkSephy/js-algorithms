@@ -1,0 +1,25 @@
+{
+  "name": "js-algorithms",
+  "version": "1.0.0",
+  "description": "Algorithms implemented with JavaScript",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DrkSephy/js-algorithms.git"
+  },
+  "author": "David Leonard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DrkSephy/js-algorithms/issues"
+  },
+  "homepage": "https://github.com/DrkSephy/js-algorithms"
+}
